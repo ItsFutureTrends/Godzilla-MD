@@ -110,7 +110,7 @@ If scan qr method is not working please, try using pairing code as we try to fix
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-4.  ***Click [`FORK`](https://github.com/ItsFutureTrends/Venocyber-MD/fork) and `Star ⭐ Repository` for Courage.***
+4.  ***Click [`FORK`](https://github.com/ItsFutureTrends/Godzilla-MD/fork) and `Star ⭐ Repository` for Courage.***
 5.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 6.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FItsFutureTrends%2FGodzilla-MD)***
