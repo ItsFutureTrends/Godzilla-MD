@@ -1,15 +1,15 @@
 {
-  "name": "Godzilla-md",
-  "description": "A Simple WhatsApp Bot",
+  "name": "Godzilla-MD",
+  "description": "A Simple WhatsApp Bot yet rich in features",
   "logo": "https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg",
-  "keywords": ["Godzilla-md", "GODZILLA", "GODZILLA MD","GODZILLA MD wabot","Godzilla","Futuretrends"],
+  "keywords": ["Godzilla-MD", "GODZILLA", "GODZILLA MD","GODZILLA MD wabot","Godzilla","Futuretrends"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for the Bot Owner",
-      "value": "FUTURETRENDS",
+      "value": "𝐅𝐮𝐭𝐮𝐫𝐞𝐓𝐫𝐞𝐧𝐝𝐬",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR THE BOT",
       "required": false,
-      "value": "GODZILLA-𝐌𝐃"
+      "value": "𝐆𝐎𝐃𝐙𝐈𝐋𝐋𝐀_𝐌𝐃"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location and country",
@@ -42,7 +42,7 @@
     "WARN_COUNT": {
       "description": " Warn count for users to removed/block when warn limit exceed!",
       "required": false,
-      "value": "2"
+      "value": "5"
     },
     "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status",
@@ -60,7 +60,7 @@
       "required": true
     },
     "WAPRESENCE": {
-      "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
+      "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for always online) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required": false,
       "value": "unavailable"
     },
@@ -94,7 +94,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2347066575685,255625774543"
+      "value": "2347066575685,254787371970"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -106,12 +106,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "FUTURETRENDS 💯",
+      "value": "𝐅𝐔𝐓𝐔𝐑𝐄𝐓𝐑𝐄𝐍𝐃💯",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "GODZILLA BOT✅",
+      "value": "𝐆𝐎𝐃𝐙𝐈𝐋𝐋𝐀 𝐁𝐎𝐓✅",
       "required": false
     }
   },
