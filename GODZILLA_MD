@@ -1,7 +1,6 @@
 FROM quay.io/sampandey001/secktor
 RUN git clone /root/Godzilla 
-WORKDIR /root/https://github.com/ItsFutureTrends/Godzilla-MDKingjux
-RUN npm install
+WORKDIR /root/https://github.com/ItsFutureTrends/Godzilla-MDRUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
 # POWERD BY FUTURETRENDS￼Enter
