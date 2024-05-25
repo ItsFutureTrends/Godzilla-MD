@@ -96,7 +96,7 @@
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Deployment Methods
-if scan qr is not working please try using pairing code i am currently working on it
+If scan qr method is not working please, try using pairing code as we try to fix the issue.
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://venocyber-qr-ce49794175c5.herokuapp.com/) or server 2 qr code
     <br>
@@ -198,7 +198,7 @@ for supporting us
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;programmed;by+Future+Trends;Admin🥰)](https://github.com/ItsFutureTrends)
+[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;Developed;by+Future+Trends;Tylor and Paschal)](https://github.com/ItsFutureTrends)
 
 <p align="center">
   <a href="https://github.com/ItsFutureTrends/Godzilla-MD">
