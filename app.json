@@ -1,15 +1,15 @@
 {
-  "name": "Venocyber-md",
-  "description": "Simple WhatsApp Bot",
-  "logo": "https://telegra.ph/file/12b0fb245e6b8ba4bf718.jpg",
-  "keywords": ["Venocyber-md", "VENOCYBER", "VENOCYBER MD","VENOCYBER MD wabot","Venocyber","Venocybertech"],
+  "name": "Godzilla-md",
+  "description": "A Simple WhatsApp Bot",
+  "logo": "https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg",
+  "keywords": ["Godzilla-md", "GODZILLA", "GODZILLA MD","GODZILLA MD wabot","Godzilla","Futuretrends"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
-      "description": "Name for Bot Owner",
-      "value": "VENOCYBER-𝐓𝐄𝐂𝐇",
+      "description": "Name for the Bot Owner",
+      "value": "FUTURETRENDS",
       "required": true
     },
 
@@ -25,14 +25,14 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": " NAME FOR BOT",
+      "description": " NAME FOR THE BOT",
       "required": false,
-      "value": "VENOCYBER-𝐌𝐃"
+      "value": "GODZILLA-𝐌𝐃"
     },
     "TZ": {
-      "description": "Put TIME_ZONE according to your location",
+      "description": "Put TIME_ZONE according to your location and country",
       "required": false,
-      "value": "Africa/Dar es salaam"
+      "value": "Africa/Nigeria"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -40,9 +40,9 @@
       "value": "false"
     },
     "WARN_COUNT": {
-      "description": " Warn count for users to kick/block when warn limit exceed!",
+      "description": " Warn count for users to removed/block when warn limit exceed!",
       "required": false,
-      "value": "3"
+      "value": "2"
     },
     "AUTO_SAVE_STATUS": {
       "description": " Auto save whatsapp status",
@@ -62,7 +62,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required": false,
-      "value": "available"
+      "value": "unavailable"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
@@ -94,7 +94,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "255625774543"
+      "value": "2347066575685,255625774543"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -106,12 +106,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "VENOCYBER",
+      "value": "FUTURETRENDS 💯",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "VENOCYBER BOTS 🧚",
+      "value": "GODZILLA BOT✅",
       "required": false
     }
   },
