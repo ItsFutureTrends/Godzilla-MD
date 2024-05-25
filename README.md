@@ -8,7 +8,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+there%F0%9F%91%8B!;Meet+Godzilla+MD+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+for+you;By+Paschal+and+Tylor;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Godzilla+MD;Thank+you😊)](https://github.com/ItsFutureTrends)
+[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+there%F0%9F%91%8B!;Meet+Godzilla+MD+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+for+you,+by+humans;Developed+by+Paschal+and+Tylor;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Godzilla+MD;Thanks+from+ItsFutureTrends+team😊)](https://github.com/ItsFutureTrends)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -201,7 +201,7 @@ for supporting us
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;Developed;by+Future+Trends;Tylor+and+Paschal)](https://github.com/ItsFutureTrends)
+[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;just+wishing+you;goodluck+on+deploying+Godzilla+MD+deployment;Developed;by+Future+Trends;Tylor+and+Paschal)](https://github.com/ItsFutureTrends)
 
 <p align="center">
   <a href="https://github.com/ItsFutureTrends/Godzilla-MD">
