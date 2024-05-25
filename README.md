@@ -8,7 +8,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+there%F0%9F%91%8B!;Meet+Godzilla+MD+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+for+you,+by+humans;Developed+by+Paschal+and+Tylor;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Godzilla+MD;Thanks+from+ItsFutureTrends+team😊)](https://github.com/ItsFutureTrends)
+[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+there%F0%9F%91%8B!;Meet+Godzilla+MD+WhatsApp+Bot;A+WhatsApp+bot+rich+in+features;Made+for+you,+by+humans+on+earth;Developed+by+Tylor+and+Paschal;Fork+the+repo+and+don't+forget+to+star+it;Success+in+deploying+Godzilla+MD;Thanks+from+ItsFutureTrends+team😊)](https://github.com/ItsFutureTrends)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -59,7 +59,7 @@
 <p align="center">
   <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FItsFutureTrends%2FGodzilla-MD"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://godzilla-web01.vercel.app/replit.html"><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ItsFutureTrends/Godzilla-MD-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254787371970&env[MONGODB_URI]&&env[OWNER_NAME]=FutureTrends ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=𝐆𝐎𝐃𝐙𝐈𝐋𝐋𝐀 𝐌𝐃&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GODZILLA &env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=ItsFutureTrends &env[KOYEB_NAME]=Godzilla-MD&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
+  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ItsFutureTrends/Godzilla-MD-md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254787371970,2347066575685&env[MONGODB_URI]&&env[OWNER_NAME]=FutureTrends ᴛᴇᴄʜ&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=true&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=𝐆𝐎𝐃𝐙𝐈𝐋𝐋𝐀 𝐌𝐃&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GODZILLA &env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=ItsFutureTrends &env[KOYEB_NAME]=Godzilla-MD&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
 </p>
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
@@ -116,7 +116,7 @@ Then `Go-to Whatapp>Three dots>Linked Devices`***
 7.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FItsFutureTrends%2FGodzilla-MD)***
 8.  ***Deploy on [`Replit`](https://replit.com/github/ItsFutureTrends/Godzilla-MD)***
 9.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
-10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ItsFutureTrends/Godzilla-MD-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254787371970env[MONGODB_URI]&&env[OWNER_NAME]=FutureTrends&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Godzilla+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GODZILLA&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=Venocyber-md&env[KOYEB_NAME]=Godzilla-MD&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg)***
+10.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/ItsFutureTrends/Godzilla-MD-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=254787371970,2347066575685env[MONGODB_URI]&&env[OWNER_NAME]=FutureTrends&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Godzilla+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=GODZILLA&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Africa/Nairobi&name=Venocyber-md&env[KOYEB_NAME]=Godzilla-MD&env[SUDO]=null&env[THUMB_IMAGE]=https://telegra.ph/file/71c8e0d16cee3425e0ee5.jpg)***
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ##
 ---
@@ -201,7 +201,7 @@ for supporting us
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;just+wishing+you;goodluck+on+deploying+Godzilla+MD+deployment;Developed;by+Future+Trends;Tylor+and+Paschal)](https://github.com/ItsFutureTrends)
+[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hey+buddy%F0%9F%91%8B!;just+wishing+you;goodluck+on+deploying+Godzilla+MD;Developed;by+Future+Trends;Tylor+and+Paschal)](https://github.com/ItsFutureTrends)
 
 <p align="center">
   <a href="https://github.com/ItsFutureTrends/Godzilla-MD">
