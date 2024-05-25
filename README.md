@@ -2,6 +2,9 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> 𝐆𝐎𝐃𝐙𝐈𝐋𝐋𝐀 𝐌𝐃 </h1> 
 <p align="center"> Introducing 𝐆𝐨𝐝𝐳𝐢𝐥𝐥𝐚 𝐌𝐃, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+
+ ## [ GODZILLA WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029VaaxfYH2ER6oOMkqFS3W)
+ 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -198,7 +201,7 @@ for supporting us
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;Developed;by+Future+Trends;Tylor and Paschal)](https://github.com/ItsFutureTrends)
+[![Future Trends](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Have+a%F0%9F%91%8B!;goodluck+on+your+deployment;Developed;by+Future+Trends;Tylor+and+Paschal)](https://github.com/ItsFutureTrends)
 
 <p align="center">
   <a href="https://github.com/ItsFutureTrends/Godzilla-MD">
