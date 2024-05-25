@@ -25,7 +25,7 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+254787371970?text=Hi+Bro+Please+Help.+I+got+this+from+Godzilla-MD+Repo" target="_blank">
+  <a href="https://wa.me/+2348152012066?text=Hi+Bro+Please+Help.+I+got+this+from+Godzilla-MD+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="Godzilla MD is here for you" href="https://github.com/ItsFutureTrends/Godzilla-MD" target="_blank">
