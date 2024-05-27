@@ -101,12 +101,12 @@
 ## Deployment Methods
 If scan qr method is not working please, try using pairing code as we try to fix the issue.
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://Venocyber-qr-ce49794175c5.herokuapp.com/) or server 2 qr code
+1.  ***Get `SESSION ID` by [`SCANING QR`](https://session.bk9.site/BK9qr/) or server 2 qr code
     <br>
-<a href="https://venocyber-md-qr.onrender.com"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
-2.  [`PARING CODE`](https://venocybersessiong-1431c6f72219.herokuapp.com/pair). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
+<a href="https://session.bk9.site/BK9qr"><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+2.  [`PARING CODE`](https://session.bk9.site/BK9pair). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
     <br>
-<a href="https://venocyber-md-session-oz6r.onrender.com/pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
+<a href="https://session.bk9.site/BK9pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>
 `it is currently powerful working`
 Then `Go-to Whatapp>Three dots>Linked Devices`***
 3.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
